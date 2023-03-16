@@ -1,5 +1,2 @@
-#hello worls
-ls
-
-ls -l
+echo Hello Brother!
 
